@@ -1,4 +1,3 @@
-
 public class a {
 
     /**
@@ -10,6 +9,8 @@ public class a {
         
         //want a clean a
         
+
+//clean is good
     }
 
 }
