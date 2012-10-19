@@ -10,7 +10,7 @@ public class a {
         //want a clean a
         
 
-//clean is good
+        //clean is good
     }
 
 }
